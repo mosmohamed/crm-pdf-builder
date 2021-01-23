@@ -1,0 +1,19 @@
+{
+  "name": "mosmohamed/crm-pdf-builder",
+  "description": "crm pdf builder",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mostafa",
+      "email": "user@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "mosmohamed\\crm-pdf-builder" : "src/"
+    }
+  },
+  "require": {
+  }
+}
