@@ -3,7 +3,7 @@
   "description": "crm pdf builder",
   "minimum-stability": "dev",
   "license": "MIT",
-  "version": "0.001-dev",
+  "version": "0.1-dev",
   "authors": [
     {
       "name": "Mostafa",
@@ -12,7 +12,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "mosmohamed\\crm-pdf-builder\\" : "src/"
+      "Mosmohamed\\CrmPdfBuilder\\" : "src/"
     }
   },
   "require": {
