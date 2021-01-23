@@ -1,7 +1,7 @@
 {
   "name": "mosmohamed/crm-pdf-builder",
   "description": "crm pdf builder",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
