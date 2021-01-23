@@ -3,6 +3,7 @@
   "description": "crm pdf builder",
   "minimum-stability": "dev",
   "license": "MIT",
+  "version": "0.001-dev",
   "authors": [
     {
       "name": "Mostafa",
