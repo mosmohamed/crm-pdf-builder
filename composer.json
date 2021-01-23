@@ -10,7 +10,9 @@
     }
   ],
   "autoload": {
-    "classmap": ["src/", "src/Helpers/"]
+    "psr-4": {
+      "Mosmohamed\\CrmPdfBuilder\\" : "src/"
+    }
   },
   "require": {
   }
