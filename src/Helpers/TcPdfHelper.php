@@ -1,7 +1,7 @@
 <?php
 
 
-namespace mosmohamed\CrmPdfBuilder\Helpers;
+namespace MosMohamed\CrmPdfBuilder\Helpers;
 
 
 class TcPdfHelper
